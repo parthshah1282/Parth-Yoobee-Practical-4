@@ -22,4 +22,24 @@ How it works:
 - It converts the average into a letter grade using get_letter_grade().
 - The show_report() method prints all details.
 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+Library Book Manager
+
+- This is a simple Python program that helps manage a small library system using classes.
+
+Features:
+
+- Add a new book (title and author)
+
+- Show all added books
+
+- Menu-based user interface in the terminal
+
+How It Works:
+
+- book class stores book title and author.
+
+- Library class keeps a list of all books and provides methods to add and show them.
+
+- The main() function gives a menu to the user to interact with the library.
