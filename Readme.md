@@ -26,20 +26,34 @@ How it works:
 
 Library Book Manager
 
-- This is a simple Python program that helps manage a small library system using classes.
+This is a simple Python program that helps manage a small library system using classes.
 
 Features:
 
 - Add a new book (title and author)
-
 - Show all added books
-
 - Menu-based user interface in the terminal
 
 How It Works:
 
 - book class stores book title and author.
-
 - Library class keeps a list of all books and provides methods to add and show them.
-
 - The main() function gives a menu to the user to interact with the library.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Factorial and Prime Checker 
+
+This Python program uses a class to:
+
+- Calculate the factorial of a number.
+- Check whether the number is a prime number.
+- Display both results in a simple output.
+
+How it works:
+
+The  Factorial class has 3 functions:
+
+- factorial(num) – Calculates the factorial of a number.
+- check_prime(num) – Checks if the number is a prime.
+- display(num) – Prints the factorial and prime result.
